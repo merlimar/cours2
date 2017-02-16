@@ -1,7 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Marvin
- * Date: 16-02-17
- * Time: 10:07
- */
+$errors = [];
+$nbcol = 0;
+$nbrow = 0;
+$i = 0;
+$a = 0;
+$b = 0;
+define('SITE_TITLE','Les tables de multiplication');
